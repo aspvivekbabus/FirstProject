@@ -1,3 +1,3 @@
 a=2
-b = 2*2*2
+b = pow(a,3)
 print(a,b)
