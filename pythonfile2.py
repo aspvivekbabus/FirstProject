@@ -1,3 +1,3 @@
 a=4
-b = a*a*a
+b = pow(a,3)
 print(a,b)
